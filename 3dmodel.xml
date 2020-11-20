@@ -1,13 +1,12 @@
-<?xml version="1.0" encoding="ANSI" ?>
+<?xml version="1.0" encoding="utf-8" ?>
 <root>
 
-<!--  3Dmodels хогМи чсЦ  -->
+
 
 <models>
-	<name>згоА</name>
-	<link>vectors</link>
+	<name>згоА зхо гАлАМА</name>
+	<link>http://www.google.com</link>
 </models>
 
-<!--  Dmodels ДЕгМи чсЦ  -->
 
 </root>
