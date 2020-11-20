@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="windows-1256" ?>
 <root>
 
 <!--  3Dmodels بداية قسم  -->
 
 <models>
-	<name>ADEL</name>
+	<name>عادل</name>
 	<link>vectors</link>
 </models>
 
