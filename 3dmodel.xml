@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="windows-1256" ?>
+<?xml version="1.0" encoding="ANSI" ?>
 <root>
 
-<!--  3Dmodels ط¨ط¯ط§ظٹط© ظ‚ط³ظ…  -->
+<!--  3Dmodels بداية قسم  -->
 
 <models>
-	<name>ط¹ط§ط¯ظ„</name>
+	<name>عادل</name>
 	<link>vectors</link>
 </models>
 
-<!--  Dmodels ظ†ظ‡ط§ظٹط© ظ‚ط³ظ…  -->
+<!--  Dmodels نهاية قسم  -->
 
 </root>
