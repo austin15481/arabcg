@@ -1,4 +1,5 @@
-3dmodel.zip
+2D SECTIONS LINKS
+3D MODELS
 https://raw.githubusercontent.com/austin15481/arabcg/main/3dmodel.zip
 ==========================================================================
 hdri.zip
