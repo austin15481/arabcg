@@ -4,50 +4,137 @@
 
 
 <models>
-	<name>гЌгѕ</name>
-	<link>2020/11/blog-post.html</link>
+	<name> «” Џ—÷ я«гб гЌ жм «бё”г</name>
+	<link>PBR</link>
 	<photo>https://photostyler562.blogspot.com/2020/11/blog-post.html</photo>
 	<pra>
-Џ«ѕб Џ»ѕ «бћбнб Џбм Џг— «»ж «бднб
-—”«г гЏ«—н жг’гг ћ—«Ёня ќ»—е 14 ”де 
-гж«бнѕ 15-04-1981
-«Џгб Ќ«бн« Ён гѕнд… «бгбя Ёеѕ «бЎ»не 
-Ё«‘б »«бж—«Ће </pra>
+ё”г ќ«’ »«бќ«г«  гд джЏ PBR 
+н г Џ—÷ «бќ«г«  г— »е жгдўге Ќ”» «б д’днЁ 
+нгядя  Ќгнб «н ќ«ге  —нѕе«  </pra>
 </models>
 
 <models>
-	<name>ед«Ѕ Ќ»н» н</name>
-	<link>2020/11/blog-post_72.html</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_72.html</photo>
+	<name>’ќж—  Stones</name>
+	<link>Stones_PBR_Textures</link>
+	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
 	<pra>
-едж∆е Ќ»н»… ёб»н 
-г—« н жЌ»н» н «ббн г Ќгбе гЏ«н« «бѕдн« жг« Ёне« 
-жЁ«‘бе »д  Ё«‘бе »«—÷ж “нн »«бў»Ў 
-гд гж«бнѕ 01-09-1989
- —»… гд“б жг√д ќе Ён «б»н  </pra>
+ќ«г«  гд джЏ PBR  бб’ќж— ћ«е“… бб Ќгнб   </pra>
+</models>
+
+<models>
+	<name>ќ‘» Wood</name>
+	<link>Wood-PBR-Textures</link>
+	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  ббќ‘» гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+<models>
+	<name>ќ—”«де Concrete</name>
+	<link>Concrete-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  ббќ—”«де гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
 </models>
 
 
 <models>
-	<name>«ѕг</name>
-	<link>2020/11/blog-post_27.html</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_27.html</photo>
+	<name>»б«Ў ќ‘»н Wooden-Tiles</name>
+	<link>Wooden-Tiles-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
 	<pra>
-«ѕг Ќ»н» »«»« 
-гж«бнѕ 21-2-2016
-Ќ«бн« еж Ён ”де «жбм Ќ÷«де 
-«д ‘«Ѕ «ббе нЎбЏ ѕя ж— «ж гедѕ” «ѕ «бѕдн« ябе« </pra>
+ќ«г«  бб»б«Ў «бќ‘»н гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
 </models>
 
 <models>
-	<name>б«—« е«дг</name>
-	<link>2020/11/blog-post_48.html</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_48.html</photo>
+	<name>«ёг‘е Fabrics</name>
+	<link>Fabrics-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
 	<pra>
-б«—« е«дг «гж—… »«»« 
-гж«бнѕ 22-02-2020
-я«д  ”д е« ”жѕе жге»»е 
-яб»жў… »«»« «бЏ”б</pra>
+ќ«г«  бб«ёг‘… гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+ 
+<models>
+	<name>—’нЁ Pavements</name>
+	<link>Pavements-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  бб√—’Ё… гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+<models>
+	<name>гЏ«ѕд Metals</name>
+	<link>Metals-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  ббгЏ«ѕд гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+
+<models>
+	<name>ћѕ—«д гд «бЎж» Brick-Walls</name>
+	<link>Brick-Walls</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  бћѕ—«д гд «бЎж» гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+
+<models>
+	<name>»б«Ў«  Tiles</name>
+	<link>Tiles-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  б√дж«Џ «б»б«Ў«  гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+
+<models>
+	<name>ћбѕ Leather</name>
+	<link>Leather-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  б√дж«Џ «бћбѕ «бгќ бЁе гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
+</models>
+
+
+<models>
+	<name>ћбнѕ Snow</name>
+	<link>Snow-PBR-Textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+</photo>
+	<pra>
+ќ«г«  б√дж«Џ «бћбнѕ «бгќ бЁе гд джЏ PBR  ћ«е“… бб Ќгнб 
+нћ» Џбня г‘«еѕ… Ў—нё… «” ќѕ«г «бќ«г«  «жб« Ќ м  ” Ёнѕ где« ѕ«ќб «бЏгб «б–н  ёжг Џбне   </pra>
 </models>
 
 
