@@ -3,20 +3,12 @@
 
 
 
-<models>
-	<name> «” ⁄—÷ ﬂ«„· „Õ ÊÏ «·ﬁ”„</name>
-	<link>PBR</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post.html</photo>
-	<pra>
-ﬁ”„ Œ«’ »«·Œ«„«  „‰ ‰Ê⁄ PBR 
-Ì „ ⁄—÷ «·Œ«„«  „— »Â Ê„‰Ÿ„Â Õ”» «· ‰’‰Ì› 
-Ì„ﬂ‰ﬂ  Õ„Ì· «Ì Œ«„Â  —ÌœÂ«  </pra>
-</models>
+
 
 <models>
 	<name>’ŒÊ—  Stones</name>
 	<link>Stones_PBR_Textures</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_23.html
 </photo>
 	<pra>
 Œ«„«  „‰ ‰Ê⁄ PBR  ··’ŒÊ— Ã«Â“… ·· Õ„Ì·   </pra>
@@ -25,7 +17,7 @@
 <models>
 	<name>Œ‘» Wood</name>
 	<link>Wood-PBR-Textures</link>
-	<photo>https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_17.html
 </photo>
 	<pra>
 Œ«„«  ··Œ‘» „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -36,7 +28,7 @@
 	<name>Œ—”«‰Â Concrete</name>
 	<link>Concrete-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_76.html
 </photo>
 	<pra>
 Œ«„«  ··Œ—”«‰Â „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -48,7 +40,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>»·«ÿ Œ‘»Ì Wooden-Tiles</name>
 	<link>Wooden-Tiles-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_74.html
 </photo>
 	<pra>
 Œ«„«  ··»·«ÿ «·Œ‘»Ì „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -59,7 +51,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>«ﬁ„‘Â Fabrics</name>
 	<link>Fabrics-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_1.html
 </photo>
 	<pra>
 Œ«„«  ··«ﬁ„‘… „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -71,7 +63,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>—’Ì› Pavements</name>
 	<link>Pavements-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_58.html
 </photo>
 	<pra>
 Œ«„«  ··√—’›… „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -82,7 +74,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>„⁄«œ‰ Metals</name>
 	<link>Metals-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_95.html
 </photo>
 	<pra>
 Œ«„«  ··„⁄«œ‰ „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -94,7 +86,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>Ãœ—«‰ „‰ «·ÿÊ» Brick-Walls</name>
 	<link>Brick-Walls</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/brick-walls-pbr-textures.html
 </photo>
 	<pra>
 Œ«„«  ·Ãœ—«‰ „‰ «·ÿÊ» „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -106,7 +98,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>»·«ÿ«  Tiles</name>
 	<link>Tiles-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_2.html
 </photo>
 	<pra>
 Œ«„«  ·√‰Ê«⁄ «·»·«ÿ«  „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -118,7 +110,7 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>Ã·œ Leather</name>
 	<link>Leather-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_65.html
 </photo>
 	<pra>
 Œ«„«  ·√‰Ê«⁄ «·Ã·œ «·„Œ ·›Â „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
@@ -130,12 +122,28 @@ https://photostyler562.blogspot.com/2020/11/blog-post_7.html
 	<name>Ã·Ìœ Snow</name>
 	<link>Snow-PBR-Textures</link>
 	<photo>
-https://photostyler562.blogspot.com/2020/11/blog-post_7.html
+https://photostyler562.blogspot.com/2020/12/blog-post_70.html
 </photo>
 	<pra>
 Œ«„«  ·√‰Ê«⁄ «·Ã·Ìœ «·„Œ ·›Â „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
 ÌÃ» ⁄·Ìﬂ „‘«Âœ… ÿ—Ìﬁ… «” Œœ«„ «·Œ«„«  «Ê·« Õ Ï  ” ›Ìœ „‰Â« œ«Œ· «·⁄„· «·–Ì  ﬁÊ„ ⁄·ÌÂ   </pra>
 </models>
+
+
+
+
+<models>
+	<name> —»… soil</name>
+	<link>soil-pbr-textures</link>
+	<photo>
+https://photostyler562.blogspot.com/2020/12/blog-post_46.html
+</photo>
+	<pra>
+Œ«„«  ·√‰Ê«⁄ ««· —»… «·„Œ ·›Â „‰ ‰Ê⁄ PBR  Ã«Â“… ·· Õ„Ì· 
+ÌÃ» ⁄·Ìﬂ „‘«Âœ… ÿ—Ìﬁ… «” Œœ«„ «·Œ«„«  «Ê·« Õ Ï  ” ›Ìœ „‰Â« œ«Œ· «·⁄„· «·–Ì  ﬁÊ„ ⁄·ÌÂ   </pra>
+</models>
+
+
 
 
 </root>
