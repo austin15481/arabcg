@@ -23,7 +23,7 @@
 
 <models>
 	<name>ÔãæÚ Candles</name>
-	<link>Candles-models-part1</link>
+	<link>Candles-models</link>
 	<photo>https://photostyler562.blogspot.com/2020/12/blog-post.html</photo>
 	<pra>
  ãæÏíáÇÊ ÔãæÚ Candles ÌÇåÒÉ ááÊÍãíá İŞØ ÇÎÊÇÑ ÇáãæÏíá ÇáĞí ÊÑíÏå  </pra>
@@ -32,7 +32,7 @@
 
 <models>
 	<name>ÓÌÇÏ Carpets</name>
-	<link>Carpets-part1</link>
+	<link>Carpets</link>
 	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_7.html</photo>
 	<pra>
 ãæÏíáÇÊ ÓÌÇÏ Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
@@ -41,12 +41,20 @@
 
 <models>
 	<name>ÓÊÇÆÑ Carpets</name>
-	<link>curtains-pack-2</link>
+	<link>curtains</link>
 	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_55.html</photo>
 	<pra>
 ãæÏíáÇÊ ÓÊÇÆÑ Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
 </models>
 
+
+<models>
+	<name>ÓÊÇÆÑ Carpets</name>
+	<link>curtains</link>
+	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_55.html</photo>
+	<pra>
+ãæÏíáÇÊ ÓÊÇÆÑ Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
+</models>
 
 
 
