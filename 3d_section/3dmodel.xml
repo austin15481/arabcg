@@ -40,11 +40,11 @@
 
 
 <models>
-	<name>ÓÊÇÆÑ Carpets</name>
+	<name>ÓÊÇÆÑ curtains</name>
 	<link>curtains</link>
 	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_55.html</photo>
 	<pra>
-ãæÏíáÇÊ ÓÊÇÆÑ Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
+ãæÏíáÇÊ ÓÊÇÆÑ curtains ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
 </models>
 
 
@@ -53,10 +53,18 @@
 	<link>Decorative_Set</link>
 	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_15.html</photo>
 	<pra>
-ãæÏíáÇÊ ÓÊÇÆÑ Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
+ãæÏíáÇÊ ãÌãæÚÇÊ ÏíßæÑíÉ ááÒíäÉ  Carpets ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
 </models>
 
 
+
+<models>
+	<name>ÅØÇÑÇÊ ááÕæÑ Photo Frames</name>
+	<link>Frames</link>
+	<photo>https://photostyler562.blogspot.com/2020/12/blog-post_94.html</photo>
+	<pra>
+ãæÏíáÇÊ ãÌãæÚÇÊ ÅØÇÑÇÊ ááÕæÑ  Photo Frames ÌÇåÒå ááÊÍãíá æÇáÇÓÊÚãÇá ÏÇÎá ãÔÑæÚß   </pra>
+</models>
 
 
 
